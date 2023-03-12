@@ -1,0 +1,29 @@
+.navbar_barcontent{
+
+    background-color: rgba(232, 220, 226, 0.878);
+}
+.home{
+    border-radius: 5px;
+    font-size:medium;
+   
+ }
+
+.about  {
+    border-radius: 5px;
+    font-size:medium;
+}
+.help{
+    border-radius: 5px;
+    font-size:medium;
+}
+.contact{
+    border-radius: 5px;
+    font-size:medium;
+}
+.search{ 
+    background-color: hsl(187, 11%, 85%);
+    border-radius: 5px;
+    border-color: rgb(15, 16, 15);
+    
+    
+}
